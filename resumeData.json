@@ -1,0 +1,90 @@
+{
+  "main" : {
+    "name" : "Dương Mạnh Hoàng",
+    "description": "Hello World",
+    "work": "Web Developer",
+    "social" : [
+      {
+        "name" : "Facebook",
+        "icon" : "fa fa-facebook",
+        "url" : "https://www.facebook.com/m.hoang96"
+      },
+      {
+        "name" : "Github",
+        "icon" : "fa fa-github",
+        "url" : "https://github.com/duongmanhhoang"
+      }
+    ]
+  },
+  "about" : {
+    "age" : "23",
+    "phone" : "0969200973",
+    "address" : "Hà Nội",
+    "email" : "manhhoang3151996@gmail.com",
+    "description": "Chào mọi người, mình là Hoàng - một lập trình viên website. Tại sao mình lại chọn website ư? Vì giờ internet là một phần quan trọng của thế giới và website chính là ngôi nhà. Và mình muốn chính mình sẽ xây được những ngồi nhà tuyệt vời cho mọi người. Vậy nếu bạn đang muốn xây dựng một website thì mình luôn sẵn sàng (mình cũng cần tiền mua hạt để nuôi con mèo bị lợn nhập của mình nữa ( ཀ ʖ̯ ཀ), ảnh nó ngay dưới đó)",
+    "image" : "/assets/img/lu.jpg",
+    "service" : [
+      {
+        "icon" : "fa fa-laptop",
+        "name" : "Web Developer",
+        "description" : "Lorem ipsum dolor sit amet, ne utamur partiendo posidoniu peru, justo meitum democritum ut eam. Minim numquam sed ne."
+      }
+    ]
+  },
+  "resume" : {
+    "education" : [
+      {
+        "name" : "FPT Polytechnic",
+        "from" : "9/2017",
+        "to" : "nay",
+        "description" : "<p>Chuyên ngành: Lập trình website</p><p>Sinh viên xuất sắc kỳ Fall 2017</p><p>Sinh viên xuất sắc kỳ Spring 2018</p><p>Sinh viên giỏi Summer 2018</p><p>Sinh viên xuất sắc Fall 2018</p><p>Sinh viên giỏi Spring 2019</p>"
+      }
+    ],
+    "experience" : [
+      {
+        "name" : "MJU Group",
+        "from" : "01/2018",
+        "to" : "03/2019",
+        "description" : "<p>Thực tập thiết kế và phát triển website</p><p>Xây dựng các trang web của công ty và khách hàng</p><p>Hỗ trợ chạy quảng cáo google ads, chạy SEO\n</p>"
+      },
+      {
+        "name" : "Sun* Asterisk (New brand of Framgia)",
+        "from" : "04/2019",
+        "to" : "nay",
+        "description" : "<p>Tham gia khóa open education của công ty Sun* Asterisk</p>"
+      }
+    ]
+  },
+  "project" : [
+    {
+      "name" : "Sun hotel",
+      "image" : "/assets/img/sunhotel.png",
+      "url" : "https://sunhotel.cf"
+    },
+    {
+      "name" : "Nem vị phố",
+      "image" : "/assets/img/nemvipho.png",
+      "url" : "http://nemvipho.vn/"
+    },
+    {
+      "name" : "Vietnambridal",
+      "image" : "/assets/img/vietnambridal.png",
+      "url" : "http://vietnambridal.vn/"
+    },
+    {
+      "name" : "Vnnewspaper",
+      "image" : "/assets/img/vnnewspaper.png",
+      "url" : "http://vnnewspaper.net/"
+    },
+    {
+      "name" : "Gia Chiến photography",
+      "image" : "/assets/img/giachien.png",
+      "url" : "http://giachienphotographer.com/"
+    },
+    {
+      "name" : "A3 Home",
+      "image" : "/assets/img/a3home.png",
+      "url" : "http://a3home.tk/"
+    }
+  ]
+}
